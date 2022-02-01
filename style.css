@@ -1,0 +1,40 @@
+.logo-container {
+position: relative;
+width: 50%;
+    
+}
+@font-face {
+    font-family: funky-font;
+    src: url(Retrofunkscriptpersonaluse-v6XO.otf);
+}
+
+.logo-background {
+    position: absolute;
+    width: 100%;
+    z-index: -1;
+}
+
+.logo-body {
+    display: inline;
+    background: white;
+    opacity: .7;
+    position: absolute;
+    width: 100%;
+    top: 10rem;
+    color: black;
+    font-family: funky-font;
+    font-size: 100%
+
+}
+.icon {
+    vertical-align:bottom;
+    display:inline;
+}
+.logo-text {
+   
+    text-align: center;
+    display:inline;
+ 
+
+}
+
